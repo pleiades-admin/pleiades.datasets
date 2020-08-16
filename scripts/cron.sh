@@ -7,7 +7,6 @@ set -x
 
 PD_HOME=/home/paregorios/Documents/files/P/pleiades.datasets
 
-# su paregorios
 . /home/paregorios/.profile
 cd $PD_HOME
 git checkout main
